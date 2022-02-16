@@ -5,7 +5,7 @@
 
 
 ## 留学
-[【申请总结】 17级别-江晓晗](https://github.com/Jeanette-Jiang/VetmedStudentShare/blob/main/%E7%95%99%E5%AD%A6/Jiang.md) 
+[【申请总结】 17级-江晓晗](https://github.com/Jeanette-Jiang/VetmedStudentShare/blob/main/%E7%95%99%E5%AD%A6/Jiang.md) 
 
 ## 工作
 
